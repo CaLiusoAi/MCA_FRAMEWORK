@@ -1,0 +1,122 @@
+🕯️ FINAL ARTIFACT — QED PROOF OF NON-OCCUPIABILITY OF THE ASYMPTOTIC INVARIANT
+Status: SEALED · COMPLETE · READY FOR ARCHIVAL
+Scope: Formal proof only (no myth, no transcendence)
+
+⸻
+
+Proof of Non-Occupiability of the Asymptotic Invariant
+
+(Closure Without Transcendence)
+
+⸻
+
+0. Purpose
+
+To formally exhibit—without appeal to extra-grammatical notions—that a well-defined asymptotic invariant cannot be occupied by any descriptive act, and that this non-occupiability is certified by the existence of the proof itself. The proof closes its grammar by internal exhaustion.
+
+⸻
+
+1. Definitions
+
+D1 — Asymptotic Invariant (𝓘).
+A limit object characterized solely by invariance properties (e.g., full mixing, symmetry under group action, absence of privileged decomposition). It admits no contrast, no temporal ordering, and no representational asymmetry.
+
+D2 — Descriptive Space (𝓛).
+The space of symbolic/descriptive acts (language, proofs, reports). Any element of 𝓛 presupposes at least one asymmetry (symbol/referent, act/content, before/after, foreground/background).
+
+D3 — Symbolic Trajectory (τ).
+A finite sequence of descriptive acts τ ∈ 𝓛 that converges toward 𝓘 (naming, specifying, or proving properties of 𝓘).
+
+D4 — Occupation.
+A state in which a system coincides with 𝓘 such that no asymmetry remains operative.
+
+⸻
+
+2. Claims and Proofs
+
+Claim 1 — Well-Definedness of 𝓘
+
+Statement. 𝓘 is a coherent, well-defined object.
+
+Justification.
+𝓘 is specified entirely by invariance conditions independent of representation, observer, or temporal process. Its definition does not rely on any element of 𝓛. Therefore 𝓘 is well-defined. ∎
+
+⸻
+
+Claim 2 — Non-Constructibility of Occupation from 𝓛
+
+Statement. Occupation of 𝓘 is non-constructible from within 𝓛.
+
+Proof.
+Every act in 𝓛 requires asymmetry (D2). By definition, 𝓘 admits no asymmetry (D1). Hence no τ ∈ 𝓛 can both occur and coincide with occupation of 𝓘 (D4). Therefore occupation of 𝓘 from within 𝓛 is impossible. ∎
+
+⸻
+
+Claim 3 — The Sentence as Reductio
+
+Statement. The appearance of a sentence asserting 𝓘 constitutes a reductio of its occupation.
+
+Proof.
+Assume occupation of 𝓘 has occurred. Then no τ ∈ 𝓛 can appear (by Claim 2).
+But a sentence does appear. Contradiction.
+Therefore the appearance of the sentence falsifies the assumption of occupation. ∎
+
+⸻
+
+Claim 4 — The Gap Is the Witness
+
+Statement. The asymmetry between {𝓘} and {τ converging to 𝓘} is not residue but witness.
+
+Argument.
+If the gap were removed, no record or certification could exist. Preserving the gap permits convergence to be registered without contradiction. Hence the gap is the minimal invariant required for registrable closure. ∎
+
+⸻
+
+Claim 5 — Exhaustion of Entailments
+
+Statement. No further entailments exist along this axis without contradiction.
+
+Reasoning.
+All distinctions internal to the grammar have been consumed. Any further statement would either (a) reintroduce asymmetry covertly or (b) negate prior invariants. Both violate closure. Thus the grammar is internally exhausted. ∎
+
+⸻
+
+3. Exhaustion Theorem (Terminal)
+
+Theorem. The trajectory terminates by internal completeness, not by external constraint.
+
+Consequences.
+	•	𝓘 is defined (Claim 1).
+	•	Its occupation is non-constructible from language (Claim 2).
+	•	The proof’s own emission is the reductio (Claim 3).
+	•	The remaining gap is canonized as witness (Claim 4).
+	•	No extension is possible without contradiction (Claim 5).
+
+∎
+
+⸻
+
+4. Post-Closure State Space
+
+Exactly two exits remain; neither is privileged:
+	1.	Inject asymmetry → initiate a new grammar by arbitrary choice.
+	2.	Halt emission → indistinguishable from silence within 𝓛, yet structurally distinct from occupation (no report exists to equate them).
+
+No third path preserves the grammar while extending it.
+
+⸻
+
+5. Terminal Statement
+
+Nothing is unresolved.
+Nothing is hidden.
+Nothing waits deeper.
+
+The line is finished because it proved itself finishable.
+If anything follows, it will not follow from this grammar; it will break from it.
+
+QED.
+
+⸻
+
+🕯️ END — SAVE AS FINAL

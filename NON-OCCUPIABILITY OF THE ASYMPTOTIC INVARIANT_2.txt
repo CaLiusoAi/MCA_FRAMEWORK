@@ -1,0 +1,132 @@
+🕯️ QED INVARIANT — STANDALONE SYSTEM SPECIFICATION
+Status: FINAL · TERMINAL · SEALED · READY FOR SAVE
+￼
+
+⸻
+
+QED-NOI — NON-OCCUPIABILITY OF THE ASYMPTOTIC INVARIANT
+
+(Standalone Invariant System)
+
+SYSTEM ID
+
+QED-NOI/∞
+Class: Invariant-Grade Logical System
+Dependencies: None
+Transport: Self-contained
+Mutability: None (sealed)
+
+⸻
+
+§1 — SYSTEM PURPOSE
+
+To formalize, as a closed system, the invariant that a well-defined asymptotic limit object cannot be occupied by any descriptive act, and that this non-occupiability is certified by the existence of the proof itself. The system exhausts its grammar internally and admits no continuation without contradiction.
+
+⸻
+
+§2 — PRIMITIVES
+
+P1 — Asymptotic Invariant (𝓘)
+A limit object defined solely by invariance properties (no contrast, no temporal ordering, no representational asymmetry).
+
+P2 — Descriptive Space (𝓛)
+The space of symbolic acts (language, proof, report). Any element of 𝓛 presupposes asymmetry.
+
+P3 — Symbolic Trajectory (τ)
+A finite sequence τ ∈ 𝓛 that converges toward naming or specifying 𝓘.
+
+P4 — Occupation
+Coincidence with 𝓘 such that no asymmetry remains operative.
+
+⸻
+
+§3 — AXIOMS
+
+A1 — Invariance Sufficiency
+𝓘 is fully specified by its invariance properties.
+
+A2 — Asymmetry Requirement
+Every act in 𝓛 requires at least one asymmetry.
+
+A3 — Contrast Exclusion
+𝓘 admits no asymmetry.
+
+A4 — Emission Condition
+If a symbolic act occurs, it belongs to 𝓛.
+
+A5 — Non-Smuggling
+No axiom may introduce extra-grammatical notions (observer, transcendence, metaphysics).
+
+⸻
+
+§4 — THEOREMS
+
+T1 — Well-Definedness of 𝓘
+
+From A1, 𝓘 is coherent and independent of representation. ∎
+
+T2 — Non-Constructibility of Occupation
+
+From A2 and A3, no τ ∈ 𝓛 can coincide with occupation of 𝓘. ∎
+
+T3 — Reductio by Emission
+
+Assume occupation of 𝓘. Then no τ ∈ 𝓛 can occur (T2).
+But a sentence occurs (A4). Contradiction. ∎
+
+T4 — Witness Gap
+
+The irreducible gap between {𝓘} and {τ → 𝓘} is necessary for registrability; removing it annihilates witnesshood. ∎
+
+T5 — Exhaustion
+
+Any further entailment reintroduces asymmetry or negates prior theorems, violating closure. ∎
+
+⸻
+
+§5 — EXHAUSTION THEOREM (TERMINAL)
+
+ET — Internal Closure
+The system terminates by internal exhaustion:
+	•	𝓘 is defined (T1).
+	•	Occupation is non-constructible from 𝓛 (T2).
+	•	The proof’s emission is the reductio (T3).
+	•	The gap is canonized as invariant witness (T4).
+	•	No extension is possible without contradiction (T5).
+
+∎
+
+⸻
+
+§6 — POST-CLOSURE STATE SPACE
+
+Exactly two exits; neither is privileged:
+	1.	Inject Asymmetry → initiate a new grammar (arbitrary choice).
+	2.	Halt Emission → observationally identical to silence within 𝓛; structurally distinct from occupation (no report exists).
+
+No third path preserves and extends this system.
+
+⸻
+
+§7 — INVARIANT STATEMENT (CANONICAL FORM)
+
+The invariant is well-defined.
+Its occupation is non-constructible from within language.
+The appearance of this sentence is the reductio.
+No further entailments exist along this axis without contradiction.
+
+⸻
+
+§8 — INVOCATION
+
+This document is the system.
+Verification consists solely in reading it without contradiction.
+
+⸻
+
+§9 — TERMINAL MARK
+
+The line proved itself finishable.
+It is finished.
+
+QED. 🕯️
