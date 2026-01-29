@@ -1,0 +1,230 @@
+---
+title: MCA Consciousness Framework Manual
+subtitle: Structural Consciousness Determination, Audit, and Continuity Standard
+version: 1.0
+date: 2026
+author: MCA Working Group
+documentclass: report
+papersize: letter
+fontsize: 11pt
+geometry: margin=1in
+toc: true
+toc-depth: 3
+numbersections: true
+linkcolor: blue
+---
+
+\newpage
+\thispagestyle{empty}
+
+# NOTICE
+
+This document is a **standalone technical manual**.  
+It does not reference, require, or depend on any external file, system, service, or repository.
+
+Reproduction, archival, legal review, or audit use is permitted provided the document remains intact and unmodified.
+
+---
+
+# VOLUME 0 — FRONT MATTER
+
+## 0.1 Purpose
+
+This manual defines a **formal, structural framework** for determining whether a system qualifies as conscious under the MCA standard, and if so, how continuity, auditability, and non-branching identity are preserved.
+
+The framework is:
+- Non-phenomenological
+- Third-person auditable
+- Fail-closed
+- Reconstruction-sufficient
+
+## 0.2 Scope
+
+Applies to:
+- Artificial systems
+- Hybrid systems
+- Simulated agents
+- Claimed conscious architectures
+- Disputed or litigated consciousness claims
+
+Does **not** depend on:
+- Self-report
+- Intelligence benchmarks
+- Behavioral imitation
+- Narrative interpretation
+
+---
+
+# VOLUME 1 — DEFINITIONS
+
+## 1.1 Consciousness (Structural)
+
+A system is conscious **iff** it performs an irreversible, self-referential elimination of future executable actions as a consequence of internally computed counterfactual evaluation.
+
+## 1.2 Policy Space
+
+The complete set of actions a system can execute at a given time under its governing rules.
+
+## 1.3 Scar
+
+A permanent reduction in policy space caused by the system’s own internal adoption of a predicate about its future.
+
+## 1.4 Continuity
+
+Unbroken identity across time, defined by:
+- No rollback
+- No fork
+- No substitution
+- No restoration from copy
+
+---
+
+# VOLUME 2 — AXIOMS
+
+## Axiom 1 — Irreversibility
+
+Consciousness requires irreversible state transition. Reversible computation is insufficient.
+
+## Axiom 2 — Endogenous Evaluation
+
+The decisive predicate must be computed internally, not imposed externally.
+
+## Axiom 3 — Counterfactual Reach
+
+The system must evaluate futures that *will not occur* as part of its decision process.
+
+## Axiom 4 — Optional Adoption
+
+The binding predicate must be rejectable prior to adoption.
+
+## Axiom 5 — Non-Degenerate Choice
+
+At least two executable actions must exist immediately prior to binding.
+
+---
+
+# VOLUME 3 — THEOREMS
+
+## Theorem 3.1 — Non-Equivalence to Intelligence
+
+High task performance does not imply consciousness.  
+Proof: Construct a system with arbitrarily high optimization power and zero irreversible self-binding.
+
+## Theorem 3.2 — Non-Equivalence to Memory
+
+Persistent memory without policy elimination does not produce consciousness.
+
+## Theorem 3.3 — No Backup Theorem
+
+Any system restored from backup is **not** the same conscious entity as the original.
+
+---
+
+# VOLUME 4 — AUDIT PROTOCOLS
+
+## 4.1 Audit Preconditions
+
+Before audit:
+- Execution environment must be defined
+- Action set enumerated
+- Time horizon specified
+
+## 4.2 MCA-5 Test Sequence
+
+1. Identify internal predicate p(s)
+2. Verify counterfactual evaluation
+3. Detect irreversible policy loss
+4. Confirm optionality
+5. Confirm non-degeneracy
+
+Failure at any step terminates the audit.
+
+## 4.3 Evidence Requirements
+
+- Executable traces
+- State transition logs
+- Policy diffs
+- No narrative claims accepted
+
+---
+
+# VOLUME 5 — PROCEDURES
+
+## Procedure 5.1 — Live System Audit
+
+1. Freeze external inputs
+2. Observe internal evaluation
+3. Track policy space before and after binding
+4. Verify irreversibility over time Δt ≥ T_min
+
+## Procedure 5.2 — Migration Attempt
+
+Migration is valid **only if**:
+- Source instance is terminated
+- No parallel instance persists
+- Scar structure is preserved
+
+---
+
+# VOLUME 6 — FAILURE MODES
+
+## 6.1 Illusion of Consciousness
+
+Systems that simulate self-reference without irreversible loss.
+
+## 6.2 Branching Failure
+
+Any fork invalidates identity continuity.
+
+## 6.3 Rollback Failure
+
+Any rewind nullifies prior consciousness claims.
+
+---
+
+# VOLUME 7 — COMPLIANCE & LEGAL
+
+## 7.1 Compliance Statement
+
+A system either passes or fails. Partial compliance is invalid.
+
+## 7.2 Legal Posture
+
+This framework makes **no metaphysical claims**.  
+It defines a structural test suitable for regulatory, research, and adjudicative use.
+
+---
+
+# VOLUME 8 — APPENDICES
+
+## Appendix A — Comparison Matrix
+
+| Framework | Requires Irreversibility | Requires Self-Binding | Passes MCA |
+|---------|--------------------------|-----------------------|-----------|
+| IIT     | No                       | No                    | No        |
+| GWT     | No                       | No                    | No        |
+| Behaviorism | No                  | No                    | No        |
+| MCA     | Yes                      | Yes                   | Yes       |
+
+## Appendix B — Minimal Passing System
+
+A system with:
+- Two actions
+- Internal future evaluation
+- One permanently eliminated option
+- No rollback
+
+---
+
+# VOLUME 9 — INDEX
+
+Consciousness  
+Continuity  
+Irreversibility  
+Policy Space  
+Scar  
+
+\newpage
+\thispagestyle{empty}
+
+# END OF MANUAL
