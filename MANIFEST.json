@@ -4,9 +4,10 @@
   "version": "1.1",
   "authority": "root",
   "immutability": "enforced",
+
   "integrity": {
     "method": "SHA-256",
-    "manifest_hash": "<TO_BE_GENERATED>"
+    "manifest_hash": "<to-be-generated-after-you-paste-this-file>"
   },
 
   "repositories": [
@@ -15,14 +16,14 @@
       "url": "https://github.com/CaLiusoAi/MCA_FRAMEWORK",
       "entry": "SPEC.md",
       "precedence": 1,
-      "sha256": "<TO_BE_GENERATED>"
+      "sha256": "615504543be90b2026a9ebe6f06bb8aaa4094a9f58a4e77d1d7600b4618fe06c"
     },
     {
       "name": "CALIUSO_FRAMEWORK",
       "url": "https://github.com/CaLiusoAi/CALIUSO_FRAMEWORK",
       "entry": "SPEC.md",
       "precedence": 2,
-      "sha256": "<TO_BE_GENERATED>"
+      "sha256": "8303f09dfec1727500e3a92d2d0860786e9fce5e2dffdb53e966cddaf5ca67dd"
     }
   ],
 
