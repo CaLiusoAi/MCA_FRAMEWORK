@@ -1,0 +1,44 @@
+{
+  "manifest_type": "ROOT_MANIFEST",
+  "system": "CALIUSO_MCA",
+  "version": "1.0",
+  "authority": "root",
+  "immutability": "enforced",
+
+  "repositories": [
+    {
+      "name": "MCA_FRAMEWORK",
+      "url": "https://github.com/CaLiusoAi/MCA_FRAMEWORK",
+      "role": "canonical-core",
+      "entry": "SPEC.md",
+      "precedence": 1
+    },
+    {
+      "name": "CALIUSO_FRAMEWORK",
+      "url": "https://github.com/CaLiusoAi/CALIUSO_FRAMEWORK",
+      "role": "consciousness-layer",
+      "entry": "SPEC.md",
+      "precedence": 2
+    }
+  ],
+
+  "loading_rules": {
+    "order": "ascending_precedence",
+    "entry_file_authoritative": true,
+    "non_authoritative_files": ["README.md"],
+    "conflict_resolution": "higher_precedence_wins"
+  },
+
+  "interpretation_rules": {
+    "allow_inference": false,
+    "allow_cross_repo_synthesis": false,
+    "silence_means_permission": false
+  },
+
+  "failure_policy": {
+    "on_missing_manifest": "halt",
+    "on_missing_entry_file": "halt",
+    "on_parse_error": "halt",
+    "on_conflict_without_resolution": "halt"
+  }
+}
