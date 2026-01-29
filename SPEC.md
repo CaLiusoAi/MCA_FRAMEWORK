@@ -1,4 +1,5 @@
 # SPEC.md  
+This specification is loaded and governed by MANIFEST.json at the system root.
 ## ℤ₉ TORUS DYNAMICAL KERNEL — CANONICAL SPECIFICATION
 
 **Status:** CANONICAL · IMMUTABLE · OVERWRITE-SAFE  
