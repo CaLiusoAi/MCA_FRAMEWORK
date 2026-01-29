@@ -1,6 +1,6 @@
 # SPEC.md  
 ## ℤ₉ TORUS DYNAMICAL KERNEL — CANONICAL SPECIFICATION
- 
+  
 **Status:** CANONICAL · IMMUTABLE · OVERWRITE-SAFE  
 **Symmetry Class:** Discrete Torus  
 **Revision:** Fixed-Point Closure  
