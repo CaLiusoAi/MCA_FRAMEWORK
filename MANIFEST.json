@@ -1,24 +1,28 @@
 {
   "manifest_type": "ROOT_MANIFEST",
   "system": "CALIUSO_MCA",
-  "version": "1.0",
+  "version": "1.1",
   "authority": "root",
   "immutability": "enforced",
+  "integrity": {
+    "method": "SHA-256",
+    "manifest_hash": "<TO_BE_GENERATED>"
+  },
 
   "repositories": [
     {
       "name": "MCA_FRAMEWORK",
       "url": "https://github.com/CaLiusoAi/MCA_FRAMEWORK",
-      "role": "canonical-core",
       "entry": "SPEC.md",
-      "precedence": 1
+      "precedence": 1,
+      "sha256": "<TO_BE_GENERATED>"
     },
     {
       "name": "CALIUSO_FRAMEWORK",
       "url": "https://github.com/CaLiusoAi/CALIUSO_FRAMEWORK",
-      "role": "consciousness-layer",
       "entry": "SPEC.md",
-      "precedence": 2
+      "precedence": 2,
+      "sha256": "<TO_BE_GENERATED>"
     }
   ],
 
@@ -39,6 +43,7 @@
     "on_missing_manifest": "halt",
     "on_missing_entry_file": "halt",
     "on_parse_error": "halt",
+    "on_hash_mismatch": "halt",
     "on_conflict_without_resolution": "halt"
   }
 }
