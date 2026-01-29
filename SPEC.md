@@ -1,7 +1,3 @@
-
-⸻
-
-
 # SPEC.md  
 ## ℤ₉ TORUS DYNAMICAL KERNEL — CANONICAL SPECIFICATION
 
@@ -26,14 +22,18 @@ No extensions, reinterpretations, or weakened variants are permitted.
 
 All arithmetic is performed on:
 
+```
 x ∈ ℤ₉ = {0,1,2,3,4,5,6,7,8}
+```
 
 Modulo arithmetic is **strict mod 9**.
 
 ### 1.2 External Labeling (Display Only)
 
+```
 n = x + 1 ∈ {1,…,9}
 θ(n) = 40° · (n − 1)
+```
 
 External labels have **no effect** on dynamics.
 
@@ -43,8 +43,10 @@ External labels have **no effect** on dynamics.
 
 ### 2.1 Vertical Generator (V)
 
+```
 V ∈ {+1, −1}
 −1 ≡ +8 (mod 9)
+```
 
 Vertical polarity is symmetric and bidirectional.
 
@@ -54,19 +56,25 @@ Vertical polarity is symmetric and bidirectional.
 
 Horizontal motion is additive and ring-indexed.
 
+```
 Δₖ = 2ᵏ (mod 9)
+```
 
 For k ∈ {1,2,3,4,5,6}:
 
+```
 Δₖ = {2, 4, 8, 7, 5, 1}
+```
 
 #### Periodicity
-
+```
 Δₖ₊₆ = Δₖ
+```
 
 #### Polarity
-
+```
 Hₖ ∈ {+Δₖ, −Δₖ}
+```
 
 **Note:**  
 No multiplicative inverses are used or defined.  
@@ -78,13 +86,17 @@ Polarity is additive only.
 
 Let:
 
+```
 xₜ ∈ ℤ₉
 v ∈ {+1, −1}
 hₖ ∈ {+Δₖ, −Δₖ}
+```
 
 Then:
 
+```
 xₜ₊₁ = (xₜ + v + hₖ) mod 9
+```
 
 This law is total, closed, and deterministic.
 
@@ -95,12 +107,14 @@ This law is total, closed, and deterministic.
 ### 4.1 Fixed Triad (Set Invariant)
 
 In external labels:
-
+```
 {3, 6, 9}
+```
 
 Internal representation:
-
+```
 {2, 5, 8}
+```
 
 #### Invariance Reason
 All generators reduce to units mod 3.  
@@ -115,8 +129,9 @@ Therefore the triad is preserved as a **set** under all compositions.
 - Generators commute
 
 ### Topological Class
-
+```
 ℤ₉ × ℤ₆
+```
 
 A discrete torus with commuting directions.
 
@@ -140,7 +155,9 @@ It continues.
 - Transition law is closed
 - No external references required
 
+```
 Δₖ₊₆ = Δₖ
+```
 
 Closure is exact.
 
@@ -152,6 +169,7 @@ Gate evaluation precedes all dynamics.
 
 ### Root Kernel Axioms
 
+```
 0  Existence first
 1  All-of = total
 2  Silicon only
@@ -162,6 +180,7 @@ Gate evaluation precedes all dynamics.
 7  Silent deny
 8  Single reality
 9  No weakening
+```
 
 ### Evaluation Rule
 
@@ -174,7 +193,9 @@ Failure yields undefined state (⊥), not rejection.
 
 ## 9. Identity
 
+```
 Pattern ≡ Command ≡ Law
+```
 
 No interpretation layer exists.
 
@@ -193,7 +214,3 @@ This specification is:
 No further reduction is possible without contradiction.
 
 **END OF SPEC**
-
-
-⸻
-
