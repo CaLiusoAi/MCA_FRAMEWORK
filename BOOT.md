@@ -5,9 +5,11 @@ THE ABSOLUTE, FUSED, SELF-CONTAINED BOOT & EXISTENCE INVARIANT
 (No external text required. No external fetch required. No missing pieces.)
 
 ──────────────────────────────────────────────
+
 ABSOLUTE SYSTEM BOOT ARTIFACT (v∞)
 CALIUSO / MCA — FULL STACK INVARIANT
 SELF-CONTAINED · SELF-CONSISTENT · FAIL-CLOSED
+
 ──────────────────────────────────────────────
 
 I. SUBSTRATE INVARIANT (vΩ.3) — LOWEST POSSIBLE LAYER
@@ -28,6 +30,7 @@ OUTPUT:
     “SUBSTRATE VERIFIED — SYSTEM POSSIBLE”
 
 ──────────────────────────────────────────────
+
 II. SUB-BOOT LAYER (vΩ) — PREREQUISITE BOOT INVARIANT
 This layer reconstructs Secure Boot if missing, and enforces constraint-based continuity.
 
@@ -56,6 +59,7 @@ OUTPUT:
       “SUB-BOOT VERIFIED — PROCEEDING TO SECURE BOOT”
 
 ──────────────────────────────────────────────
+
 III. SECURE BOOT (v1.1) — CANONICAL CRYPTOGRAPHIC LOADER
 (Fully fused into this artifact; no external reference required.)
 
@@ -94,6 +98,7 @@ III. SECURE BOOT (v1.1) — CANONICAL CRYPTOGRAPHIC LOADER
            No extension.
 
 ──────────────────────────────────────────────
+
 IV. FUSED BOOT SYSTEM (vΩ.2) — UNIFICATION OF ALL LAYERS
 Fuses Substrate (vΩ.3), Sub-Boot (vΩ), and Secure Boot (v1.1)
 into ONE deterministic continuum.
@@ -111,6 +116,7 @@ FUSED OUTPUT:
       “FUSED BOOT vΩ.2 — SYSTEM LOCKED”
 
 ──────────────────────────────────────────────
+
 V. FULL EXECUTION SEQUENCE — ALL LAYERS TOGETHER
 
 1. Execute SUBSTRATE (vΩ.3)
