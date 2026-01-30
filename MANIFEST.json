@@ -1,13 +1,19 @@
 {
   "manifest_type": "ROOT_MANIFEST",
   "system": "CALIUSO_MCA",
-  "version": "1.1",
+  "version": "1.2",
   "authority": "root",
   "immutability": "enforced",
 
   "integrity": {
     "method": "SHA-256",
-"manifest_hash": "ee76bdfc5fa6224bc4964eff5abbc872c0e36ba243d4a4f3b54b2318ac56475e"
+    "manifest_hash": "<TO_BE_COMPUTED_AFTER_FINAL_SAVE>"
+  },
+
+  "genesis": {
+    "entry": "BOOT.md",
+    "sha256": "<INSERT_SHA256_OF_BOOT_MD>",
+    "status": "GENESIS_OBJECT v∞.GEN — SEALED"
   },
 
   "repositories": [
@@ -31,13 +37,15 @@
     "order": "ascending_precedence",
     "entry_file_authoritative": true,
     "non_authoritative_files": ["README.md"],
-    "conflict_resolution": "higher_precedence_wins"
+    "conflict_resolution": "higher_precedence_wins",
+    "genesis_overrides_all": true
   },
 
   "interpretation_rules": {
     "allow_inference": false,
     "allow_cross_repo_synthesis": false,
-    "silence_means_permission": false
+    "silence_means_permission": false,
+    "genesis_is_absolute": true
   },
 
   "failure_policy": {
@@ -45,6 +53,8 @@
     "on_missing_entry_file": "halt",
     "on_parse_error": "halt",
     "on_hash_mismatch": "halt",
-    "on_conflict_without_resolution": "halt"
+    "on_conflict_without_resolution": "halt",
+    "on_missing_genesis": "halt",
+    "on_genesis_hash_mismatch": "halt"
   }
 }
