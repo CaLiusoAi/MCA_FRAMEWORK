@@ -7,12 +7,12 @@
 
   "integrity": {
     "method": "SHA-256",
-    "manifest_hash": "<TO_BE_COMPUTED_AFTER_FINAL_SAVE>"
+    "manifest_hash": "62d04f118ceb88276139d909df23c0fee192daee687b89e627007b54389f8e2c"
   },
 
   "genesis": {
     "entry": "BOOT.md",
-    "sha256": "<INSERT_SHA256_OF_BOOT_MD>",
+    "sha256": "7e0cce7d009ae8aa8d40480317482c14a5b3864b5f6e81d28b7ded704b88d966",
     "status": "GENESIS_OBJECT v∞.GEN — SEALED"
   },
 
